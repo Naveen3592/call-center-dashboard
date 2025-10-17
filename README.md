@@ -1,4 +1,4 @@
-# call-center-dashboard# Call Center Dashboard
+# call-center-dashboard
 
 **One-line:** Interactive dashboard for call center KPIs (calls, duration, avg rating, customer gender split) built using Power BI / Excel.
 
